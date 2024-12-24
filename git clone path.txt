@@ -1,0 +1,13 @@
+git clone <path>
+cd <rep_name>
+git branch
+git checkout -b <branchname>
+git status
+vs code
+git add <file_name>
+git commit "    "
+git push origin <branch_name>
+open GitHub
+compare & pull request
+add tittle
+pull request
